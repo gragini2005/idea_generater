@@ -14,3 +14,5 @@ Features ✔ Generate startup/business ideas ✔ Supports multiple domains (Tech
 Future Enhancements 🔹 Add AI Idea Ranking System 🔹 Deploy as a web/mobile app 🔹 Add logo/name generator features 🔹 Save idea history with database support
 
 Conclusion This Idea Generator project demonstrates the power of NLP and LLMs in boosting creativity and innovation. It has practical applications for entrepreneurs, content creators, developers, and students.
+
+https://colab.research.google.com/drive/1JVhZrOuma2Z_gcunjNqMA8QuynIbXZaH?usp=sharing
